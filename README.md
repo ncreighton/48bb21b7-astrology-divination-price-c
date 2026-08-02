@@ -22,8 +22,6 @@ Tired of paying $50+ for a single tarot reading only to discover the same insigh
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://homebasedigital.gumroad.com/l/lhqsdc)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/cNi14n5iT4scg8833mcZr2b)** — Secure checkout
 
 ## Installation
@@ -35,7 +33,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://homebasedigital.gumroad.com/l/lhqsdc)
 
 ## License
 
